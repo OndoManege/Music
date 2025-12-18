@@ -1,0 +1,8 @@
+assets/
+   images/
+      artiste1.jpg
+      artiste2.jpg
+   css/
+      style.css
+   js/
+      script.js
